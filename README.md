@@ -18,7 +18,7 @@ A simple command-line memory game developed in C for a Logic and Programming cou
 
 ## 🕹️ How to Play
 1. Enter **row** (1-4) and **column** (1-4) numbers to flip two cards.
-2. If the symbols match, they stay visible, and your score increases by 10.
+2. If the symbols match, they stay visible.
 3. If not, the cards flip back, and you try again.
 4. Win by matching all 8 pairs!
 
