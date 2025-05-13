@@ -6,8 +6,7 @@ A simple command-line memory game developed in C for a Logic and Programming cou
 ---
 
 ## 🎮 Features
-- **4x4 grid** with 8 pairs of emoji symbols (🍎, 🎲, 🎵, 🏀, ⚽, 🍌, 🍇, 🍒).
-- **Score tracking** (+10 points per match).
+- **4x4 grid** with 8 pairs of numbers.
 - **Symbol shuffling** for a unique experience each game.
 - **Simple text interface** with hidden/revealed cards.
 - **Input validation** for row and column selections.
