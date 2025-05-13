@@ -1,7 +1,7 @@
 # Memory Game (Jogo da Memória)
 
 A simple command-line memory game developed in C for a Logic and Programming course during the first semester of Internet Systems. The game challenges players to match pairs of symbols on a 4x4 grid.  
-**Note:** The code is written in Portuguese (pt-br) and was designed for educational purposes.
+**Note:** The code is written in both Portuguese (pt-br) and English and was designed for educational purposes.
 
 ---
 
